@@ -1,0 +1,7 @@
+2024-07-17 15:13:45 Unknown crop code: 'Q' in county: Cambridgeshire
+2024-07-17 15:13:45 Unknown crop code: '68' in county: Suffolk
+2024-07-17 15:13:45 Invalid weight for crop code PO in county: Kent: 4_f7
+2024-07-17 15:13:45 Unknown crop code: 'be' in county: Norfolk
+2024-07-17 15:13:45 Unknown crop code: '' in county: Oxfordshire
+2024-07-17 15:13:45 Unknown crop code: '' in county: Oxfordshire
+2024-07-17 15:13:45 The number of information on the line that starts with PO are not valid each line should start with a County and then couples of crop code/weight.
