@@ -27,5 +27,4 @@ Before running the project, ensure you have Maven installed and then run the fol
 mvn clean install
 ```
 
-All the Java classes are inside  directory src/main/java, apart from the tests which are in test/java. The webpage is inside the webPage directory and all the data files are in the resources directory.
-For the webPage template, apart from HTML, Bootstrap was also used.
+All the Java classes are inside  directory src/main/java, apart from the tests which are in src/test/java. The webpage is inside the src/main/webPage directory and all the data files and the logs file are in the src/main/resources directory.
