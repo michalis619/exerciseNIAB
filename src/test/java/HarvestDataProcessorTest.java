@@ -8,7 +8,7 @@ import java.io.IOException;
 public class HarvestDataProcessorTest {
 
   @Test
-  /*
+  /**
    * Testing the method processLine in HarvestData with valid data.
    */
   public void testProcessLine() throws IOException {
@@ -35,7 +35,7 @@ public class HarvestDataProcessorTest {
 
   @Test
   /**
-   * Testing the method processLine in HarvestData with invalid data.
+   * Testing the method processLine with override.
    */
   public void testProcessLineWithOveride() throws IOException {
     String[] input = {"Oxfordshire", "W", "100"};
